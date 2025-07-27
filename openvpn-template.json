@@ -39,7 +39,7 @@
     "subnetPrefix": "10.0.0.0/24",
     "storageAccountType": "Standard_LRS",
     "publicIPAddressName": "openvpnPublicIP",
-    "publicIPAddressType": "Dynamic",
+    "publicIPAddressType": "Static",
     "vmStorageAccountContainerName": "vhds",
     "vmName": "openvpnVM",
     "vmSize": "Standard_B1s",
